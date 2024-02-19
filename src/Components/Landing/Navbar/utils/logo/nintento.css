@@ -1,0 +1,9 @@
+@media only screen and (max-width : 1000px) {
+    .nintento-logo {
+        font-size: 20px;
+        border: 2px solid white;
+        padding: 0px 5px 0px 5px;
+        color: white;
+        border-radius: 15px;
+    }
+}

@@ -1,0 +1,10 @@
+@media only screen and (max-width : 1000px) {
+    nav {
+        background-color: #E60012;
+        padding: 10px;
+        border: 2px solid green;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
